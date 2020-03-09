@@ -9,7 +9,9 @@ If you prefer the latest master branch or want to make some code changes, you ca
 
 
 $ git clone https://github.com/huxuan/iptvtools.git
+
 $ cd iptvtools
+
 $ pip install .
 
 
@@ -65,15 +67,21 @@ r me:
 
 
 $ iptv-filter \
+
 -i https://gist.githubusercontent.com/sdhzdmzzl/93cf74947770066743fff7c7f4fc5820/raw/0be4160f4024320f23daad65bce79e606da47995/bj-unicom-iptv.m3u \
 -t http://epg.51zmt.top:8000/test.m3u
 
 
 With UDPXY, it becomes:
+
 iptv-filter \
+
 -i https://gist.githubusercontent.com/sdhzdmzzl/93cf74947770066743fff7c7f4fc5820/raw/0be4160f4024320f23daad65bce79e606da47995/bj-unicom-iptv.m3u \
+
 -t http://epg.51zmt.top:8000/test.m3u \
+
 -u http://192.168.0.1:8888
+
 
 、，Just replace http://192.168.0.1:8888 with corresponding UDPXY prefix should be OK
 
