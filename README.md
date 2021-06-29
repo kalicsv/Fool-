@@ -6,3 +6,4 @@
 5:完成
 
 本房间救援发起召集令捐款，理由吴兆钢带领社团 选各国人士捐款减少游戏房开支。并给房管一份时间损失费。
+https://github.com/kalicsv/Fool-/blob/gh-pages/mmexport1624963840368.jpg
